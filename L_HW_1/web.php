@@ -31,3 +31,6 @@ Route::get('/info', function (){
     $info =  'to our page';
     return "Welcome $info! ";
 });
+
+
+//
