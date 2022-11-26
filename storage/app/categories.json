@@ -1,0 +1,17 @@
+{
+    "1": {
+        "id": 1,
+        "title": "sport",
+        "slug": "sport"
+    },
+    "2": {
+        "id": 2,
+        "title": "policy",
+        "slug": "policy"
+    },
+    "3": {
+        "id": 3,
+        "title": "health",
+        "slug": "health"
+    }
+}
